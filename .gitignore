@@ -146,3 +146,7 @@ dmypy.json
 .pyre/
 /checkpoints/
 /data/
+
+# g1_realtime: arquivos grandes / cache (excluidos do fork)
+seed_ref/meta/metadata/seed_metadata_v004.csv
+seed_ref/meta/.cache/
